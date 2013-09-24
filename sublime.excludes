@@ -1,0 +1,8 @@
+*.cache
+*.pyc
+
+*.sublime_session
+*.last-run
+
+*Package Control*
+*qooxdoo Tools*
