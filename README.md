@@ -1,0 +1,4 @@
+sublime
+=======
+
+Individual settings/configuration
